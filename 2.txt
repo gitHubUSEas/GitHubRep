@@ -1,1 +1,2 @@
-2test.test2test.test
+2.diff duo ge
+2:wqtest.test2test.test
